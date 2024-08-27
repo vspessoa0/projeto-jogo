@@ -1,0 +1,7 @@
+CONTROLES:
+Setas - Contralam o cursor do menu
+ENTER - Escolhe a opção selecionada
+MOUSE DIR- Abre menu secundário
+
+COMO JOGAR:
+O jogo é baseado em um jogo de turno, a cada ação escolhida o personagem contolado será atacado pelo inimigo, você pode usar ataques ou magias para dar dano no inimigo, ou usar intens para curar sua vida. Se sua vida (representada pela barra verder) chegar em 0, o jogo acaba. O inimigo possui duas fases, derrote-o para ganhar.
